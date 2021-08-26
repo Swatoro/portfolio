@@ -19,7 +19,6 @@ About me
 *Scrum 
 
 # Groups on Facebook
-* zawódtester.pl
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 
