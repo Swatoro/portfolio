@@ -12,7 +12,7 @@ Tools
 * bandicam 
 
 
-#Tech skills
+Tech skills
 *Software testing
 *Creating test cases
 *Reporting bugs
@@ -20,13 +20,13 @@ Tools
 *html, css
 *Scrum 
 
-#Groups on Facebook
+Groups on Facebook
 *zawódtester.pl
 *Tester oprogramowania - wsparcie na starcie
 *Testowanie oprogramowania
 
 
-#Recommended blogs
+Recommended blogs
 *https://szkolatestera.pl/
 *https://podcasttestowanie.pl/
 *testerzy.pl
@@ -34,7 +34,7 @@ Tools
 *remigiuszbednarczyk.pl
 *pwicherski.gitbook.io
 
-#My projects
+My projects
 test scenario and  test case to Mr.buggy 1 : 
 (https://docs.google.com/spreadsheets/d/1wrFTlhebeR8OTlwYjJfs3aNppmM2AXhVqVBqR_h6uT4/edit?fbclid=IwAR02_0pEAuADyOOKQ8yCgEEDyW8uPjeAIpyvanfxxTgIcmdVqxoWrW6PxXc#gid=0)
 
