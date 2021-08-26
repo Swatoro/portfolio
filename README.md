@@ -10,9 +10,7 @@ Tools
 * excel
 * Mind Meister 
 * bandicam 
-
-
-#Tech skills
+Tech skills
 *Software testing
 *Creating test cases
 *Reporting bugs
