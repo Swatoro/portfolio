@@ -1,6 +1,6 @@
 # portfolio
 My Tester Portfolio
-#About me
+About me
  My name is Piotr Swatek.I work in sales for most time of my life. I have started to interest of software testing.My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches
 
 Tools
